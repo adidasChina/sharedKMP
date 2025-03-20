@@ -26,8 +26,8 @@ let package = Package(
           ),
         .binaryTarget(
             name: "KMPShared",
-            url: "https://artifactory.tools.adidas.com.cn/artifactory/Flagship-android/cn/adidas/kmp/XCFramework/0.0.8/sharedKMP.xcframework.zip",
-            checksum: "28379b3f0c9077c6f56e7968fae3ed9f66d4ae03463aae4d4f102ae082d90ff9"
+            url: "https://artifactory.tools.adidas.com.cn/artifactory/Flagship-android/cn/adidas/kmp/XCFramework/0.0.4/sharedKMP.xcframework.zip",
+            checksum: "2d95002654151526a2db36647f868b8781c96bd252edf089fedfb31ecc4745a1"
         )
     ]
 )
