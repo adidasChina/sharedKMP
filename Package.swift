@@ -26,7 +26,7 @@ let package = Package(
           ),
         .binaryTarget(
             name: "KMPShared",
-            url: "https://bitbucket.tools.3stripes.net/projects/CNC/repos/fs_ali_waf/raw/sharedKMP.xcframework.zip?at=refs%2Fheads%2Fdevelop",
+            url: "https://stg-adidasapp.api.adidas.com.cn/sdk/sharedKMP.xcframework.zip",
             checksum: "36a86158607ab24d542609ad47df048cb346a6d178a7ecceaf6fb544f3ae45f8"
         )
     ]
